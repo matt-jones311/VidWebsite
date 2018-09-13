@@ -1,8 +1,4 @@
-{"scripts": {
-    "start": "node your-script.js"
-},
-
-
+{
     "title": "Agency",
     "name": "startbootstrap-agency",
     "version": "5.0.2",
